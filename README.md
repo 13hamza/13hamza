@@ -16,7 +16,7 @@ I build connected systems end to end. From sensors and microcontrollers, to the 
 
 - **BS Computer Engineering**, University of Lahore
 - **15 months as a Data Analyst** at Ravi Industries (manufacturing): Power BI dashboards, MySQL and Oracle databases, production data analysis
-- **Co-Founder of [Nodevaro](https://nodevaro.com)**: workflow automation (n8n), AI assistants, and web solutions for small businesses
+- **Lead Developer at [Nodevaro](https://nodevaro.com)**: workflow automation (n8n), AI assistants, and web solutions for small businesses
 - Currently building IoT + Edge AI projects and learning German
 
 ## What I work with
