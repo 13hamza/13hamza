@@ -1,5 +1,5 @@
 <h1 align="center">Ameer Hamza</h1>
-<h3 align="center">IoT & AI Engineer | Embedded Systems · Machine Learning · Data Engineering | Co-Founder @ Nodevaro</h3>
+<h3 align="center">IoT & AI Engineer | Embedded Systems · Machine Learning · Data Engineering | @ Nodevaro</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ameer-hamza-0aaa89277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
