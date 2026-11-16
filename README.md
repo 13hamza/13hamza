@@ -43,7 +43,7 @@ I build connected systems end to end. From sensors and microcontrollers, to the 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=13hamza&layout=compact&locale=en" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/13hamza/13hamza/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" height="180" /> <img src="https://raw.githubusercontent.com/13hamza/13hamza/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" height="180" />
 </p>
 
 <p align="center">
